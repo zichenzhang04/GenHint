@@ -1,7 +1,7 @@
 {
-  "name": "GenHint",
+  "name": "genhint",
   "displayName": "GenHint",
-  "description": "LEAVE BLANK",
+  "description": "VSCode extension to generate code from comments using LLM",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
@@ -9,13 +9,25 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:genhint.generateCode"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "GenHint.generateCode",
-        "title": "Generate Code from Comments"
+        "command": "genhint.generateHint",
+        "title": "generateHints"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "genhint.generateHint",
+        "key": "cmd+shift+g",
+        "when": "editorTextFocus",
+        "mac": "cmd+shift+g",
+        "win": "ctrl+shift+g",
+        "linux": "ctrl+shift+g"
       }
     ]
   },
@@ -38,6 +50,7 @@
     "@typescript-eslint/parser": "^8.3.0",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1",
+    "dotenv": "^16.4.5",
     "eslint": "^9.9.1",
     "ts-loader": "^9.5.1",
     "typescript": "^5.5.4",

@@ -1,8 +1,10 @@
 # VS Code
 .vscode
+.vscode-test
 
 # Output files
 *.o*
+out/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
