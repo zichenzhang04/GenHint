@@ -29,8 +29,8 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/zichenzhang04/GenHint">
-    <img src="https://lh3.googleusercontent.com/k5xkB7yePMk5obqzwYviro5r6P_dLpVEX65m_Uvogcts26ydLLujJ45ORsJy_Yl6iNfLtaYFtkliBOSHKh4ZZnI" alt="Logo" width="150">
+  <a href="https://sites.google.com/d/1lDH1pK1y581NtYb5FtCvwJgwXDLnYV2L/p/17SHdUzvbUBPMRP2kwfeqwLd86GHMoWBM/edit">
+    <img src="https://lh6.googleusercontent.com/GkVZ6pIeo77gy2pGLQC4SkXdXGwuIR3LEID-qic3FutWyfoic806MjY0YuuxLme4S7xdhGNgp-j4ZUDXBdU85ak" alt="Logo" width="150">
   </a>
   <h3 align="center">GenHint: Guiding, Not Giving</h3>
 
@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Highlights
 
-![](./assets/4ej6rFEYMfwKL3wJ4iov0-2oEFmiJOUqhoT3cGf3JvsGotmuJYeTl8rSI3JdKquIDSN8RTLidtsd_G4oPraBy_0.png)
+![](https://lh6.googleusercontent.com/XaXqcbWAACsJagem7gkHmO9O1v7nfH9aInVAeIX-9nwsqUG9uTv7skDGSBAqjs1kKrT61vrMR5QcZyJG1n--b54)
 
 👥Learning with unparalleled companionship: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
 
