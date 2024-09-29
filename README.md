@@ -76,6 +76,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Highlights
+
+
+https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
+
+
 <div align="left">
   <a href="">
     <img src="images\pipeline.png">
