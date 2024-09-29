@@ -39,7 +39,7 @@
     ·
     <a href="https://docs.google.com/presentation/d/1Hema8aINeFc_Ei6GI9Ywr5kVhC1Pzar6dIe9H8K3xzc/edit?usp=sharing"> Demo Slides</a>
     ·
-    <a href="https://github.com/zichenzhang04/GenHint/issues/new?labels=bug&template=bug-report---.md">Demo Video</a>
+    <a href="https://www.youtube.com/watch?v=uRG69cioOyA">Demo Video</a>
   </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/zichenzhang04/GenHint)
