@@ -76,9 +76,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Highlights
-
-![](images\pipeline.png)
-
+<div align="center">
+  <a href="">
+    <img src="images\pipeline.png">
+  </a>
 👥Learning with unparalleled companionship: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
 
 🚀Instant Reponse with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
