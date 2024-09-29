@@ -2,17 +2,17 @@
 // Import the module and reference it with the alias vscode in your code below
 import * as vscode from 'vscode';
 import Groq from 'groq-sdk';
-// import * as dotenv from 'dotenv';
+import * as dotenv from 'dotenv';
 
-// dotenv.config(); // Load environment variables from .env file
+dotenv.config(); // Load environment variables from .env file
 
-// const apiKey = process.env['GROQ_API_KEY'];
-// if (!apiKey) {
-//     throw new Error("The GROQ_API_KEY environment variable is missing");
-// }
+const apiKey = process.env['GROQ_API_KEY'];
+if (!apiKey) {
+    throw new Error("The GROQ_API_KEY environment variable is missing");
+}
 
 const client = new Groq({
-    apiKey: "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",
+    apiKey: apiKey,
 });
 
 let chatHistory: Array<{ role: string, content: string }> = [{
@@ -145,6 +145,7 @@ function get_user_prompt(funcComments: string, type: 'hint' | 'elaboration' | 'r
 	${funcComments}
 	#elaborate this
 	Based on the hints you generated based on the original request, make a more detailed elaboration on the step the user is asking, do not generate any code in the process, do not write anything else either only write text in the form of comments for the corresponding language
+	VERY IMPORTANT: Use the coding language same as the user current request.
 	`;}
 	else {
 		const [lastUsr, lastAst] = chatHistory.splice(-2);
@@ -156,6 +157,7 @@ function get_user_prompt(funcComments: string, type: 'hint' | 'elaboration' | 'r
 		user current request:
 		${funcComments}
 		Based on the hints you generated based on the original request, review the correctness of the code the user wrote, do not generate any code in the process, only write comments, only pay attention to the block the user wrote, if other steps are not provided by the user in the current request, assume that it is correctly implemented. If the user made some errors in the code, point it out (this is the only place you can quote their code), do not offer a solution for them. do not write anything else either only write text in the form of comments for the corresponding language
+		VERY IMPORTANT: Use the coding language same as the user current request.
 		`;
 	}
 }

@@ -36,7 +36,7 @@
 
 
   <p align="center">
- Empowering Learning with Step-by-Step Guidance, Not Direct Solutions
+ Empowering Tech Education with Step-by-Step Guidance, Not Direct Solutions
     <br />
     <br />
     <a href="https://sites.google.com/umich.edu/genhint/home">Website</a>
@@ -69,12 +69,8 @@
   </ol>
 </details>
 
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## Highlights
-
 
 https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
@@ -91,6 +87,20 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage
+
+Here's how to use our extension:
+
+- Highlight a comment and type `cmd+shift+g`(MacOS)/`ctrl+shift+g`(Windows) for **structurizing** (break down a problem into TODOs)
+- Highlight a comment and type `cmd+shift+e`/`ctrl+shift+e` for **elaboration** (break down a TODO into specific subtasks)
+- Highlight a code region and type `cmd+shift+r`/`ctrl+shift+r` for **review** (review finished codes)
+
+We don’t just teach you the basics; we offer the opportunity to explore  each instruction in detail. Whether you’re stuck on a specific step or  simply curious to learn more, our AI-driven tool lets you uncover deeper explanations exactly when you need them, making learning intuitive and  personalized.
+
+_For more examples, please refer to our [project website](https://sites.google.com/umich.edu/genhint/home)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
@@ -102,13 +112,6 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Usage
-
-We don’t just teach you the basics; we offer the opportunity to explore  each instruction in detail. Whether you’re stuck on a specific step or  simply curious to learn more, our AI-driven tool lets you uncover deeper explanations exactly when you need them, making learning intuitive and  personalized.
-
-_For more examples, please refer to our [project website](https://sites.google.com/umich.edu/genhint/home)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -155,10 +158,11 @@ Project Link: [https://github.com/zichenzhang04/GenHint](https://github.com/zich
 
 Thanks to Groq for providing the computation platform for this project! If you want to build your own LLM-based tool, check out Groq and see if they could power your project!
 
-We also thank Mhacks for giving us this opportunity to meet with like-minded people and collaborate on this wonderful project, if you also want to have this experience, check out all that Mhacks has to offer!
+We also thank MHacks for giving us this opportunity to meet with like-minded people and collaborate on this wonderful project, if you also want to have this experience, check out all that MHacks has to offer!
 
 * [Groq](https://groq.com/)
-* [Mhacks](https://www.mhacks.org/)
+* [Boundary](https://www.boundaryml.com/)
+* [MHacks](https://www.mhacks.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
