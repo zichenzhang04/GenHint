@@ -83,9 +83,11 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
   <a href="">
     <img src="images\pipeline.png">
   </a>
-👥 Learning with unparalleled companionship: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
+</div>
 
-🚀 Instant Reponse with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
+👥 Learning with unparalleled **companionship**: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
+
+🚀 **Instant reponse** with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +106,7 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 We don’t just teach you the basics; we offer the opportunity to explore  each instruction in detail. Whether you’re stuck on a specific step or  simply curious to learn more, our AI-driven tool lets you uncover deeper explanations exactly when you need them, making learning intuitive and  personalized.
 
-_For more examples, please refer to the [Website](https://sites.google.com/umich.edu/genhint/home)_
+_For more examples, please refer to our [project website](https://sites.google.com/umich.edu/genhint/home)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
