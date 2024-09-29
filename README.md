@@ -36,16 +36,14 @@
 
 
   <p align="center">
- Empowering Learning with Step-by-Step Guidance, Not Direct Solutions 
-    <br />
-    <a href="https://sites.google.com/umich.edu/genhint/home"><strong>Learn more about the extension here »</strong></a>
+ Empowering Learning with Step-by-Step Guidance, Not Direct Solutions
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://sites.google.com/umich.edu/genhint/home">Website</a>
     ·
-    <a href="https://github.com/zichenzhang04/GenHint/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://docs.google.com/presentation/d/1Hema8aINeFc_Ei6GI9Ywr5kVhC1Pzar6dIe9H8K3xzc/edit?usp=sharing"> Demo Slides</a>
     ·
-    <a href="https://github.com/zichenzhang04/GenHint/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/zichenzhang04/GenHint/issues/new?labels=bug&template=bug-report---.md">Demo Video</a>
   </p>
 </div>
 
@@ -85,9 +83,9 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
   <a href="">
     <img src="images\pipeline.png">
   </a>
-👥Learning with unparalleled companionship: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
+👥 Learning with unparalleled companionship: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
 
-🚀Instant Reponse with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
+🚀 Instant Reponse with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,11 +141,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## Contact
+<!-- ## Contact
 
 Project Link: [https://github.com/zichenzhang04/GenHint](https://github.com/zichenzhang04/GenHint)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ACKNOWLEDGMENTS -->
 
