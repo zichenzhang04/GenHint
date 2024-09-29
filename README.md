@@ -19,10 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zichenzhang04/GenHint)
-![GitHub Created At](https://img.shields.io/github/created-at/zichenzhang04/GenHint)
-![GitHub contributors](https://img.shields.io/github/contributors/zichenzhang04/GenHint)
-
 
 
 <!-- PROJECT LOGO -->
@@ -45,39 +41,36 @@
     ·
     <a href="https://github.com/zichenzhang04/GenHint/issues/new?labels=bug&template=bug-report---.md">Demo Video</a>
   </p>
+  
+![GitHub last commit](https://img.shields.io/github/last-commit/zichenzhang04/GenHint)
+![GitHub Created At](https://img.shields.io/github/created-at/zichenzhang04/GenHint)
+![GitHub contributors](https://img.shields.io/github/contributors/zichenzhang04/GenHint)
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Highlights">Highlights</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+## Table of Contents
+
+- [Demonstration](#demonstration)
+- [Highlights](#highlights)
+- [Built With](#built-with)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 
 
 
 
 <!-- ABOUT THE PROJECT -->
-## Highlights
-
-
+## Demonstration
 https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
+## Highlights
 
 <div align="left">
   <a href="">
@@ -93,7 +86,7 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 
 
-### Built With
+## Built With
 
 * [![Node][Node.js]][Node-url]
 * <a href="https://groq.com/">
@@ -115,6 +108,7 @@ _For more examples, please refer to our [project website](https://sites.google.c
 
 - [x] Implemented Structurize Module
 - [x] Implemented Elaboration Module
+- [x] Implemented Review Module
 
 See the [open issues](https://github.com/zichenzhang04/GenHint/issues) for a full list of proposed features (and known issues).
 
@@ -124,16 +118,18 @@ See the [open issues](https://github.com/zichenzhang04/GenHint/issues) for a ful
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+To contribute:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a new branch (`git checkout -b your-branch-name`).
+3. Commit your changes (`git commit -m 'Describe your changes'`).
+4. Push your branch (`git push origin your-branch-name`).
+5. Open a Pull Request.
+
+If you have ideas for improving the project, feel free to open an issue with the "enhancement" tag. And if you like the project, don't forget to give it a star!
+
 
 ## License
 
