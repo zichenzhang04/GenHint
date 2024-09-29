@@ -76,7 +76,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Highlights
-<div align="center">
+<div align="left">
   <a href="">
     <img src="images\pipeline.png">
   </a>
