@@ -20,11 +20,11 @@
         "title": "generateHints"
       },
       {
-        "command": "genhing.generateElaboration",
+        "command": "genhint.generateElaboration",
         "title": "generateElaborations"
       },
       {
-        "command": "genhing.generateReview",
+        "command": "genhint.generateReview",
         "title": "generateReviews"
       }
     ],

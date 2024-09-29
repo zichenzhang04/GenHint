@@ -135,20 +135,29 @@ function get_user_prompt(funcComments: string, type: 'hint' | 'elaboration' | 'r
 	Start directly with code or comments, don't say anything else
 	`;
 	else if(type == 'elaboration'){
-		const [lastUst, lastAst] = chatHistory.splice(-2);
+		//const [lastUsr, lastAst] = chatHistory.splice(-2);
 
 		return `
 	Based on the hints you generated based on the original request, make a more detailed elaboration on the step the user is asking, do not generate any code in the process, only write comments
-	${lastUst.content}
-	${lastAst.content}
+	Chat History:
+	${chatHistory.map((chat) => `${chat.role}: ${chat.content}`).join('\n')}
 	user current request:
 	${funcComments}
 	#elaborate this
 	Based on the hints you generated based on the original request, make a more detailed elaboration on the step the user is asking, do not generate any code in the process, do not write anything else either only write text in the form of comments for the corresponding language
 	`;}
-	else return `
-		bar
-	`;
+	else {
+		const [lastUsr, lastAst] = chatHistory.splice(-2);
+
+		return  `
+		Based on the hints you generated based on the original request, review the correctness of the code the user wrote, do not generate any code in the process, only write comments, only pay attention to the block the user wrote, if other steps are not provided by the user in the current request, assume that it is correctly implemented. If the user made some errors in the code, point it out (this is the only place you can quote their code), do not offer a solution for them. do not write anything else either only write text in the form of comments for the corresponding language
+		Chat History:
+		${chatHistory.map((chat) => `${chat.role}: ${chat.content}`).join('\n')}
+		user current request:
+		${funcComments}
+		Based on the hints you generated based on the original request, review the correctness of the code the user wrote, do not generate any code in the process, only write comments, only pay attention to the block the user wrote, if other steps are not provided by the user in the current request, assume that it is correctly implemented. If the user made some errors in the code, point it out (this is the only place you can quote their code), do not offer a solution for them. do not write anything else either only write text in the form of comments for the corresponding language
+		`;
+	}
 }
 
 function cleanGeneratedCode(generatedCode: string): string {
@@ -196,9 +205,15 @@ export function activate(context: vscode.ExtensionContext) {
         await handleGenerateCommand('elaboration');
     });
 
+	const disposableReview = vscode.commands.registerCommand('genhint.generateReview', async () => {
+		// Command logic for generating code elaboration
+		await handleGenerateCommand('review');
+	});
+
     // Register both commands
     context.subscriptions.push(disposableHint);
     context.subscriptions.push(disposableElaboration);
+	context.subscriptions.push(disposableReview);
 }
 
 // Helper function to handle both commands
