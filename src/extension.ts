@@ -2,13 +2,12 @@
 // Import the module and reference it with the alias vscode in your code below
 import * as vscode from 'vscode';
 import Groq from 'groq-sdk';
-import * as dotenv from 'dotenv';
+import 'dotenv/config';
 
-dotenv.config(); // Load environment variables from .env file
+const apiKey = "";
 
-const apiKey = process.env['GROQ_API_KEY'];
 if (!apiKey) {
-    throw new Error("The GROQ_API_KEY environment variable is missing");
+    throw new Error("Env error");
 }
 
 const client = new Groq({

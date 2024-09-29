@@ -1,8 +1,14 @@
 {
   "name": "genhint",
   "displayName": "GenHint",
-  "description": "VSCode extension to generate code from comments using LLM",
-  "version": "0.0.1",
+  "description": "An LLM Agent Powered by Groq's Fast Inference Speed to Empower Tech Education with Real-Time Step-by-Step Guidance, Not Direct Solutions",
+  "publisher": "GenHintAI",
+  "version": "0.0.3",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zichenzhang04/GenHint"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },

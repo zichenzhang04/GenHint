@@ -5,6 +5,7 @@
 # Output files
 *.o*
 out/
+*.vsix*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

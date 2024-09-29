@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://sites.google.com/d/1lDH1pK1y581NtYb5FtCvwJgwXDLnYV2L/p/17SHdUzvbUBPMRP2kwfeqwLd86GHMoWBM/edit">
-    <img src="images\logo.png" alt="Logo" width="150">
+    <img src="https://i.ibb.co/PMfnqdD/Logo.png" alt="Logo" width="150">
   </a>
   <h3 align="center">GenHint: Guiding, Not Giving</h3>
 
@@ -80,11 +80,11 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 ## Highlights
 
-<div align="left">
+<!-- <div align="left">
   <a href="">
     <img src="images\pipeline.png">
   </a>
-</div>
+</div> -->
 
 👥 Learning with unparalleled **companionship**: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
 
@@ -108,14 +108,14 @@ _For more examples, please refer to our [project website](https://sites.google.c
 
 
 
-## Built With
+<!-- ## Built With
 
 * [![Node][Node.js]][Node-url]
 * <a href="https://groq.com/">
     <img src="https://groq.com/wp-content/uploads/2024/03/logo-nos1.svg " alt="Groq" style="float: left; width: 60px;">
   </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- ROADMAP -->
