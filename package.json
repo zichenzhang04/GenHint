@@ -18,6 +18,14 @@
       {
         "command": "genhint.generateHint",
         "title": "generateHints"
+      },
+      {
+        "command": "genhing.generateElaboration",
+        "title": "generateElaborations"
+      },
+      {
+        "command": "genhing.generateReview",
+        "title": "generateReviews"
       }
     ],
     "keybindings": [
@@ -28,6 +36,22 @@
         "mac": "cmd+shift+g",
         "win": "ctrl+shift+g",
         "linux": "ctrl+shift+g"
+      },
+      {
+        "command": "genhint.generateElaboration",
+        "key": "cmd+shift+e",
+        "when": "editorTextFocus",
+        "mac": "cmd+shift+e",
+        "win": "ctrl+shift+e",
+        "linux": "ctrl+shift+e"
+      },
+      {
+        "command": "genhint.generateReview",
+        "key": "cmd+shift+r",
+        "when": "editorTextFocus",
+        "mac": "cmd+shift+r",
+        "win": "ctrl+shift+r",
+        "linux": "ctrl+shift+r"
       }
     ]
   },
