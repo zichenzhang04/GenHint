@@ -28,7 +28,7 @@
   <a href="https://sites.google.com/d/1lDH1pK1y581NtYb5FtCvwJgwXDLnYV2L/p/17SHdUzvbUBPMRP2kwfeqwLd86GHMoWBM/edit">
     <img src="https://i.ibb.co/PMfnqdD/Logo.png" alt="Logo" width="150">
   </a>
-  <h3 align="center">GenHint: Guiding, Not Giving</h3>
+  <h3 align="center">[MHacks 2024 Best Developer Tool] GenHint</h3>
 
 
   <p align="center">
