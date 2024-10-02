@@ -104,6 +104,8 @@ We don’t just teach you the basics; we offer the opportunity to explore  each 
 
 _For more examples, please refer to our [project website](https://sites.google.com/umich.edu/genhint/home)_
 
+_For more information on DevPost, please refer to [DevPost website](https://devpost.com/software/genhint)_
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
