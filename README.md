@@ -166,10 +166,11 @@ Project Link: [https://github.com/zichenzhang04/GenHint](https://github.com/zich
 
 ## Acknowledgments
 
-Thanks to Groq for providing the computation platform for this project! If you want to build your own LLM-based tool, check out Groq and see if they could power your project!
+Thanks to Warp and Groq for providing the computation platform for this project! If you want to build your own LLM-based tool, check out Groq and see if they could power your project!
 
 We also thank MHacks for giving us this opportunity to meet with like-minded people and collaborate on this wonderful project, if you also want to have this experience, check out all that MHacks has to offer!
 
+* [Warp](https://www.warp.dev/)
 * [Groq](https://groq.com/)
 * [Boundary](https://www.boundaryml.com/)
 * [MHacks](https://www.mhacks.org/)
