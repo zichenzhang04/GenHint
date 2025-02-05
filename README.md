@@ -48,34 +48,12 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Highlights">Highlights</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 ## TL;DR
 
 Unlike conventional AI coding assistants like GitHub Copilot, GenHint does not give you codes directly. Instead, it generates code templates with "TODO" comments and explains each subproblem for you. It's powered by Llama 3 70B hosted on Groq. Published as a VS Code Extension and easy to download, it will be a great companion for your coding workflow.
 
 <!-- ABOUT THE PROJECT -->
-## Highlights
+## Demo
 
 
 https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
