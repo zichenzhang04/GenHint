@@ -70,8 +70,6 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 🚀 **Instant response** with no pressure: Thanks to Groq, we are available to help our users use the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Usage
 
 Here's how to use our extension:
