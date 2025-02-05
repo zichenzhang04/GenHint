@@ -32,7 +32,7 @@
 
 
   <p align="center">
- Empowering Tech Education with Step-by-Step Guidance, Not Direct Solutions
+ VS Code AI Coding Assistant that Outputs Step-by-Step Guidance, Not Direct Solutions
     <br />
     <br />
     <a href="https://sites.google.com/umich.edu/genhint/home">Website</a>
