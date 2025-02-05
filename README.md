@@ -70,7 +70,9 @@
 </details>
 
 
+## TL;DR
 
+Unlike conventional AI coding assistants like GitHub Copilot, GenHint does not give you codes directly. Instead, it generates code templates with "TODO" comments and explains each subproblem for you. It's powered by Llama 3 70B hosted on Groq. Published as a VS Code Extension and easy to download, it will be a great companion for your coding workflow.
 
 <!-- ABOUT THE PROJECT -->
 ## Highlights
@@ -88,7 +90,7 @@ https://github.com/user-attachments/assets/bf3e93a2-a872-47b0-94c9-a4f44c7d87a3
 
 👥 Learning with unparalleled **companionship**: GenHint goes beyond simple guidance. Our approach provides step-by-step instructions, but we don't stop there. If you want to dive deeper into any part of a process, just select the step, and we’ll provide detailed, contextual insights to ensure you fully grasp each concept. It's like having a mentor by your side, ready to explain each move.
 
-🚀 **Instant reponse** with no pressure: Thanks to Groq, we are avaliable to help our users using the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
+🚀 **Instant response** with no pressure: Thanks to Groq, we are available to help our users use the most advanced models at lightning speeds with no pressure on personal devices. Whether it is a workstation, or a thin and light, everyone can learn to code intelligently without worries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
