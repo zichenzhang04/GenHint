@@ -131,22 +131,6 @@ See the [open issues](https://github.com/zichenzhang04/GenHint/issues) for a ful
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b your-branch-name`).
-3. Commit your changes (`git commit -m 'Describe your changes'`).
-4. Push your branch (`git push origin your-branch-name`).
-5. Open a Pull Request.
-
-If you have ideas for improving the project, feel free to open an issue with the "enhancement" tag. And if you like the project, don't forget to give it a star!
-
 
 ## License
 
