@@ -86,8 +86,6 @@ _For more examples, please refer to our [project website](https://sites.google.c
 
 _For more information on DevPost, please refer to [DevPost website](https://devpost.com/software/genhint)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ## Built With
@@ -109,14 +107,12 @@ _For more information on DevPost, please refer to [DevPost website](https://devp
 
 See the [open issues](https://github.com/zichenzhang04/GenHint/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -139,7 +135,6 @@ We also thank MHacks for giving us this opportunity to meet with like-minded peo
 * [Boundary](https://www.boundaryml.com/)
 * [MHacks](https://www.mhacks.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
